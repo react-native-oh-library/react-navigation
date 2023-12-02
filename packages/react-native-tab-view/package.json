@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tab-view",
+  "name": "@react-native-oh-tpl/react-native-tab-view",
   "description": "Tab view component for React Native",
   "version": "3.5.2-0.0.1",
   "keywords": [
@@ -16,11 +16,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-navigation/react-navigation.git",
+    "url": "https://github.com/react-native-oh-library/react-navigation.git",
     "directory": "packages/react-native-tab-view"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "bugs": {
-    "url": "https://github.com/react-navigation/react-navigation/issues"
+    "url": "https://github.com/react-native-oh-library/react-navigation/issues"
   },
   "homepage": "https://reactnavigation.org/docs/tab-view/",
   "main": "lib/commonjs/index.js",
