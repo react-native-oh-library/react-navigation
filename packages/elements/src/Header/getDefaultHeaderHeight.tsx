@@ -31,6 +31,17 @@ export default function getDefaultHeaderHeight(
     }
   } else if (Platform.OS === 'android') {
     headerHeight = 56;
+    // @ts-ignore
+  } else if (Platform.OS === 'harmony') {
+    if (isLandscape) {
+      headerHeight = 32;
+    } else {
+      if (modalPresentation) {
+        headerHeight = 56;
+      } else {
+        headerHeight = 44;
+      }
+    }
   } else {
     headerHeight = 64;
   }
