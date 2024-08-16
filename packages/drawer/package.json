@@ -1,7 +1,7 @@
 {
   "name": "@react-native-oh-tpl/drawer",
   "description": "Drawer navigator component with animated transitions and gesturess",
-  "version": "6.7.1-0.0.1",
+  "version": "6.7.1-0.0.2",
   "harmony": {
     "alias": "@react-navigation/drawer"
   },
