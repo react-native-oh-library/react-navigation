@@ -179,7 +179,7 @@ export default function HeaderSegment(props: Props) {
 
   const headerTitle: StackHeaderOptions['headerTitle'] =
     typeof title !== 'function'
-      ? (props) => <HeaderTitle {...props} onLayout={handleTitleLayout} />
+      ? (props) => <HeaderTitle {...props} allowFontScaling={headerBackAllowFontScaling} onLayout={handleTitleLayout} />
       : (props) => title({ ...props, onLayout: handleTitleLayout });
 
   return (
