@@ -154,12 +154,7 @@ export default function NativeStackView({ state, descriptors }: Props) {
               style={[
                 StyleSheet.absoluteFill,
                 {
-                  display:
-                    isFocused ||
-                    (nextPresentation != null &&
-                      TRANSPARENT_PRESENTATIONS.includes(nextPresentation))
-                      ? 'flex'
-                      : 'none',
+                  display:'flex',
                 },
                 presentation != null &&
                 TRANSPARENT_PRESENTATIONS.includes(presentation)
