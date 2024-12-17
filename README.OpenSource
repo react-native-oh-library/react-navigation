@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-navigation",
+        "License": "MIT License",
+        "License File": "https://github.com/react-navigation/react-navigation/blob/6.x/packages/core/LICENSE",
+        "Version Number": "6.9.26",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/react-navigation/react-navigation",
+        "Description": "Routing and navigation for your React Native apps"
+    }
+]

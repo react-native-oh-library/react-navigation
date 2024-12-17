@@ -1,0 +1,1 @@
+10:55:02 WARN  - OatFileAnalyser	react-native-svg-charts	README.OpenSource	MIT License

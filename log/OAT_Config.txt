@@ -1,0 +1,166 @@
+10:55:02 WARN  - OatCfgUtil	basedir: C:/Users/kWX1340169/Desktop/新建文件夹/react-native-svg-charts-sig/
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	Khronos License	 	 	LicenseText	* Permission is hereby granted, free of charge, to any person obtaining a                  * copy of this software and/or associated documentation files (the                  *  > Materials >), to deal in the Materials without restriction, including                  * without limitation the rights to use, copy, modify, merge, publish,                  * distribute, sublicense, and/or sell copies of the Materials, and to                  * permit persons to whom the Materials are furnished to do so, subject to                  * the following conditions:                  *                  * The above copyright notice and this permission notice shall be included                  * in all copies or substantial portions of the Materials.                  *                  * MODIFICATIONS TO THIS FILE MAY MEAN IT NO LONGER ACCURATELY REFLECTS                  * KHRONOS STANDARDS. THE UNMODIFIED, NORMATIVE VERSIONS OF KHRONOS                  * SPECIFICATIONS AND HEADER INFORMATION ARE LOCATED AT                  *    https://www.khronos.org/registry/                  *                  * THE MATERIALS ARE PROVIDED  > AS IS >, WITHOUT WARRANTY OF ANY KIND,                  * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF                  * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.                  * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY                  * CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,                  * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE                  * MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	Khronos License	 	 	LicenseText	The Khronos Group Inc.                  *                  * Permission is hereby granted, free of charge, to any person obtaining a                  * copy of this software and/or associated documentation files (the                  * >Materials>), to deal in the Materials without restriction, including                  * without limitation the rights to use, copy, modify, merge, publish,                  * distribute, sublicense, and/or sell copies of the Materials, and to                  * permit persons to whom the Materials are furnished to do so, subject to                  * the following conditions:                  *                  * The above copyright notice and this permission notice shall be included                  * in all copies or substantial portions of the Materials.                  *                  * THE MATERIALS ARE PROVIDED >AS IS>, WITHOUT WARRANTY OF ANY KIND,                  * EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF                  * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.                  * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY                  * CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,                  * TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE                  * MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	BSD-2-Clause	 	 	LicenseText	Redistribution and use in source and binary forms, with or without                 modification, are permitted provided that the following conditions are met:                 1. Redistributions of source code must retain the above copyright notice, this                    list of conditions and the following disclaimer.                 2. Redistributions in binary form must reproduce the above copyright notice,                    this list of conditions and the following disclaimer in the documentation                    and/or other materials provided with the distribution.                 THIS SOFTWARE IS PROVIDED BY THE
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	BSD-2-Clause	 	 	LicenseText	Redistribution and use in source and binary forms, with or without                 modification, are permitted provided that the following conditions are met:                 Redistributions of source code must retain the above copyright notice, this                    list of conditions and the following disclaimer.                 Redistributions in binary form must reproduce the above copyright notice,                    this list of conditions and the following disclaimer in the documentation                    and/or other materials provided with the distribution.                 THIS SOFTWARE IS PROVIDED BY THE
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	BSD-3-Clause	 	 	LicenseText	* Redistribution and use in source and binary forms, with or without modification,                  * are permitted provided that the following conditions are met:                  *                  * 1. Redistributions of source code must retain the above copyright notice,                  *    this list of conditions and the following disclaimer.                  * 2. Redistributions in binary form must reproduce the above copyright notice,                  *    this list of conditions and the following disclaimer in the documentation                  *    and/or other materials provided with the distribution.                  * 3. The name of the author may not be used to endorse or promote products                  *    derived from this software without specific prior written permission.                  * THIS SOFTWARE IS PROVIDED BY THE
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	BSD-3-Clause	 	 	LicenseText	* Redistribution and use in source and binary forms, with or without modification,                  * are permitted provided that the following conditions are met:                  *                  * Redistributions of source code must retain the above copyright notice,                  *    this list of conditions and the following disclaimer.                  * Redistributions in binary form must reproduce the above copyright notice,                  *    this list of conditions and the following disclaimer in the documentation                  *    and/or other materials provided with the distribution.                  * The name of the author may not be used to endorse or promote products                  *    derived from this software without specific prior written permission.                  * THIS SOFTWARE IS PROVIDED BY THE
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	ISC	 	 	LicenseText	Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted,                     provided that the above copyright notice and this permission notice appear in all copies.  THE SOFTWARE IS PROVIDED                     >AS IS> AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF                     MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL                     DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE                     OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	MIT|NCSA	 	 	LicenseText	dual licensed under the MIT and the University of Illinois Open
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	c-ares license	 	 	LicenseText	Permission to use, copy, modify, and distribute this software and its                     documentation for any purpose and without fee is hereby granted, provided that                     the above copyright notice appear in all copies and that both that copyright                     notice and this permission notice appear in supporting documentation, and that                     the name of M.I.T. not be used in advertising or publicity pertaining to                     distribution of the software without specific, written prior permission.                     M.I.T. makes no representations about the suitability of this software for any                     purpose.  It is provided > as is>without express or implied warranty.
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addGlobalLicenseText	customizedLicenseConfig	Name	bzip2 and libbzip2 License	 	 	LicenseText	Redistribution and use in source and binary forms, with or without                     modification, are permitted provided that the following conditions                     are met:                     1. Redistributions of source code must retain the above copyright                        notice, this list of conditions and the following disclaimer.                     2. The origin of this software must not be misrepresented; you must                        not claim that you wrote the original software.  If you use this                        software in a product, an acknowledgment in the product                        documentation would be appreciated but is not required.                     3. Altered source versions must be plainly marked as such, and must                        not be misrepresented as being the original software.                     4. The name of the author may not be used to endorse or promote                        products derived from this software without specific prior written                        permission.                     THIS SOFTWARE IS PROVIDED BY
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	ApacheStyleLicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	FSFAP
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	FSFUL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	FSFULLR
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	curl
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	ISC
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	diffmark
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	Beerware
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	blessing
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	NLPL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache	 	 	LicenseText	Unlicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	ApacheStyleLicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	FSFAP
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	FSFUL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	FSFULLR
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	curl
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	ISC
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	diffmark
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	Beerware
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	blessing
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	NLPL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	MIT	 	 	LicenseText	Unlicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	ApacheStyleLicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	FSFAP
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	FSFUL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	FSFULLR
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	curl
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	ISC
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	diffmark
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	Beerware
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	blessing
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	NLPL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	Unlicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	BSD	 	 	LicenseText	NCSA
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	ApacheStyleLicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	FSFAP
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	FSFUL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	FSFULLR
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	curl
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	ISC
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	diffmark
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	Beerware
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	blessing
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	NLPL
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	Apache-2.0	 	 	LicenseText	Unlicense
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	ApacheStyleLicense	 	 	LicenseText	Apache-2.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0+	 	 	LicenseText	GPL-2.0-or-later
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0-or-later	 	 	LicenseText	GPL-2.0+
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-1.0	 	 	LicenseText	AGPL-1.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-1.0-only	 	 	LicenseText	AGPL-1.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-1.0-or-later	 	 	LicenseText	AGPL-1.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-1.0-or-later	 	 	LicenseText	AGPL-1.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-3.0	 	 	LicenseText	AGPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-3.0-only	 	 	LicenseText	AGPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-3.0-or-later	 	 	LicenseText	AGPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	AGPL-3.0-or-later	 	 	LicenseText	AGPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.1	 	 	LicenseText	GFDL-1.1-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.1-only	 	 	LicenseText	GFDL-1.1
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.1-or-later	 	 	LicenseText	GFDL-1.1
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.1-or-later	 	 	LicenseText	GFDL-1.1-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.2	 	 	LicenseText	GFDL-1.2-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.2-only	 	 	LicenseText	GFDL-1.2
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.2-or-later	 	 	LicenseText	GFDL-1.2
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.2-or-later	 	 	LicenseText	GFDL-1.2-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.3	 	 	LicenseText	GFDL-1.3-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.3-only	 	 	LicenseText	GFDL-1.3
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.3-or-later	 	 	LicenseText	GFDL-1.3
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GFDL-1.3-or-later	 	 	LicenseText	GFDL-1.3-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0	 	 	LicenseText	GPL-1.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0-only	 	 	LicenseText	GPL-1.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0-or-later	 	 	LicenseText	GPL-1.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0-or-later	 	 	LicenseText	GPL-1.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0-or-later	 	 	LicenseText	GPL-1.0+
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0+	 	 	LicenseText	GPL-1.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0+	 	 	LicenseText	GPL-1.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-1.0+	 	 	LicenseText	GPL-1.0-or-later
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0	 	 	LicenseText	GPL-2.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0-only	 	 	LicenseText	GPL-2.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0-or-later	 	 	LicenseText	GPL-2.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0-or-later	 	 	LicenseText	GPL-2.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0-or-later	 	 	LicenseText	GPL-2.0+
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0+	 	 	LicenseText	GPL-2.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0+	 	 	LicenseText	GPL-2.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-2.0+	 	 	LicenseText	GPL-2.0-or-later
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0	 	 	LicenseText	GPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0-only	 	 	LicenseText	GPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0-or-later	 	 	LicenseText	GPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0-or-later	 	 	LicenseText	GPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0-or-later	 	 	LicenseText	GPL-3.0+
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0+	 	 	LicenseText	GPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0+	 	 	LicenseText	GPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0+	 	 	LicenseText	GPL-3.0-or-later
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0	 	 	LicenseText	LGPL-2.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0-only	 	 	LicenseText	LGPL-2.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0-or-later	 	 	LicenseText	LGPL-2.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0-or-later	 	 	LicenseText	LGPL-2.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0-or-later	 	 	LicenseText	LGPL-2.0+
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0+	 	 	LicenseText	LGPL-2.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0+	 	 	LicenseText	LGPL-2.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.0+	 	 	LicenseText	LGPL-2.0-or-later
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1	 	 	LicenseText	LGPL-2.1-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1-only	 	 	LicenseText	LGPL-2.1
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1-or-later	 	 	LicenseText	LGPL-2.1
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1-or-later	 	 	LicenseText	LGPL-2.1-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1-or-later	 	 	LicenseText	LGPL-2.1+
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1+	 	 	LicenseText	LGPL-2.1
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1+	 	 	LicenseText	LGPL-2.1-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-2.1+	 	 	LicenseText	LGPL-2.1-or-later
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0	 	 	LicenseText	LGPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0-only	 	 	LicenseText	LGPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0-or-later	 	 	LicenseText	LGPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0-or-later	 	 	LicenseText	LGPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0-or-later	 	 	LicenseText	LGPL-3.0+
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0+	 	 	LicenseText	LGPL-3.0
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0+	 	 	LicenseText	LGPL-3.0-only
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	LGPL-3.0+	 	 	LicenseText	LGPL-3.0-or-later
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	GPL-3.0+	 	 	LicenseText	GPL-3.0+-with-Libtool-exception
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	XConsortiumLicense	 	 	LicenseText	X11
+10:55:02 WARN  - OatCfgUtil	GlobalConfig	addCompatibilityLicense	compatibilityLicenseConfig	Name	X11	 	 	LicenseText	XConsortiumLicense
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	PolicyItem	licensePolicy	Name	MIT	Path	react-native-svg-charts/.*	Desc	license under the MIT
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	PolicyItem	compatibilityPolicy	Name	GPL-2.0+	Path	react-native-svg-charts/.*	Desc	Process that runs independently, invoked by the X process.
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	PolicyItem	compatibilityPolicy	Name	Apache-2.0	Path	react-native-svg-charts/.*	Desc	不影响兼容性
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	PolicyItem	compatibilityPolicy	Name	BSDStyleLicense	Path	react-native-svg-charts/.*	Desc	不影响兼容性
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	PolicyItem	compatibilityPolicy	Name	MIT	Path	react-native-svg-charts/.*	Desc	不影响兼容性
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	PolicyItem	compatibilityPolicy	Name	GPLStyleLicense	Path	react-native-svg-charts/.*	Desc	不影响兼容性
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FilePath	react-native-svg-charts/.github/.*	Desc	git库配置文件，非业务代码，不添加许可证头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FilePath	react-native-svg-charts/.yarn/.*	Desc	依赖生成文件，非业务代码，不添加许可证头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FilePath	react-native-svg-charts/docs/.*	Desc	指导文档文件，非业务代码，不添加许可证头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FilePath	react-native-svg-charts/log/.*	Desc	日志生成文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	.gitignore	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	LICENSE	Desc	版权文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	metro.config.js	Desc	示例工程配置文件，非业务代码，不添加许可证头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	package.json	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	README.md	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	README.OpenSource	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	tsconfig.build.json	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	tsconfig.json	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	.buckconfig	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	.flowconfig	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	.npmignore	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	.watchmanconfig	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	index.js	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	prettier.config.js	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FilePath	react-native-svg-charts/src/index.js	Desc	原库导出文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	.prettierignore	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	defaultPolicyFilter			FileName	babel.config.js	Desc	示例工程配置文件，非业务代码，不添加许可证头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	.prettierignore	Desc	示例工程配置文件，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	babel.config.js	Desc	示例工程配置文件，非业务代码，不添加许可证头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	.buckconfig	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	.flowconfig	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	.npmignore	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	.watchmanconfig	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	index.js	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FileName	prettier.config.js	Desc	工程配置文件，非业务代码，不添加版权头
+10:55:02 WARN  - OatCfgUtil	react-native-svg-charts/	Filter	copyrightPolicyFilter			FilePath	react-native-svg-charts/src/index.js	Desc	原库导出文件，不添加版权头
