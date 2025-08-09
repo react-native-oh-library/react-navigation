@@ -63,11 +63,12 @@ export default function HeaderContainer({
           headerStyleInterpolator,
         } = scene.descriptor.options;
 
-        if (headerMode !== mode || !headerShown) {
+        if ((headerMode !== mode || !headerShown) && focusedRoute.key !== scene.descriptor.route.key) {
           return null;
         }
 
         const isFocused = focusedRoute.key === scene.descriptor.route.key;
+        const shouldHideHeader = (headerMode !== mode || !headerShown) && isFocused;
         const previousScene = getPreviousScene({
           route: scene.descriptor.route,
         });
@@ -154,17 +155,14 @@ export default function HeaderContainer({
                     : undefined
                 }
                 pointerEvents={isFocused ? 'box-none' : 'none'}
-                accessibilityElementsHidden={!isFocused}
+                accessibilityElementsHidden={!isFocused || shouldHideHeader}
                 importantForAccessibility={
-                  isFocused ? 'auto' : 'no-hide-descendants'
+                  (isFocused && !shouldHideHeader) ? 'auto' : 'no-hide-descendants'
                 }
-                style={
-                  // Avoid positioning the focused header absolutely
-                  // Otherwise accessibility tools don't seem to be able to find it
-                  (mode === 'float' && !isFocused) || headerTransparent
-                    ? styles.header
-                    : null
-                }
+                style={[
+                  ((mode === 'float' && !isFocused) || headerTransparent) ? styles.header : null,
+                  shouldHideHeader ? { opacity: 0, height: 0, overflow: 'hidden' } : null
+                ]}
               >
                 {header !== undefined ? header(props) : <Header {...props} />}
               </View>
