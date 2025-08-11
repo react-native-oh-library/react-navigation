@@ -45,7 +45,7 @@ export function forHorizontalIOS({
 
   const shadowOpacity = current.progress.interpolate({
     inputRange: [0, 1],
-    outputRange: [0, 0.3],
+    outputRange: [0.3, 0],
     extrapolate: 'clamp',
   });
 
