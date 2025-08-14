@@ -6,7 +6,7 @@ import {
   Route,
 } from '@react-navigation/native';
 import * as React from 'react';
-import { Animated, StyleProp, StyleSheet, View, ViewStyle } from 'react-native';
+import { Animated, StyleProp, StyleSheet, View, ViewStyle, Platform } from 'react-native';
 
 import {
   forNoAnimation,
@@ -36,6 +36,18 @@ export type Props = {
   style?: Animated.WithAnimatedValue<StyleProp<ViewStyle>>;
 };
 
+function compareVersion(v1: string, v2: string) {
+  const a = v1.split('.').map(Number);
+  const b = v2.split('.').map(Number);
+  for (let i = 0; i < Math.max(a.length, b.length); i++) {
+    const num1 = a[i] || 0;
+    const num2 = b[i] || 0;
+    if (num1 > num2) return 1;
+    if (num1 < num2) return -1;
+  }
+  return 0;
+}
+
 export default function HeaderContainer({
   mode,
   scenes,
@@ -63,12 +75,18 @@ export default function HeaderContainer({
           headerStyleInterpolator,
         } = scene.descriptor.options;
 
-        if ((headerMode !== mode || !headerShown) && focusedRoute.key !== scene.descriptor.route.key) {
+        const rawVersion = typeof Platform.Version === 'string' ? Platform.Version : String(Platform.Version);
+        const match = rawVersion.match(/(\d+\.\d+\.\d+)/);
+        const version = match ? match[1] : '0.0.0';
+        const isHarmony = (Platform.OS as string) === 'harmony';
+
+        let shouldHideHeader = isHarmony && compareVersion(version, '6.0.0') >= 0 ? !headerShown && focusedRoute.key !== scene.descriptor.route.key : headerMode !== mode || !headerShown;
+
+        if (shouldHideHeader) {
           return null;
         }
 
         const isFocused = focusedRoute.key === scene.descriptor.route.key;
-        const shouldHideHeader = (headerMode !== mode || !headerShown) && isFocused;
         const previousScene = getPreviousScene({
           route: scene.descriptor.route,
         });
@@ -155,14 +173,17 @@ export default function HeaderContainer({
                     : undefined
                 }
                 pointerEvents={isFocused ? 'box-none' : 'none'}
-                accessibilityElementsHidden={!isFocused || shouldHideHeader}
+                accessibilityElementsHidden={!isFocused}
                 importantForAccessibility={
-                  (isFocused && !shouldHideHeader) ? 'auto' : 'no-hide-descendants'
+                  isFocused ? 'auto' : 'no-hide-descendants'
                 }
-                style={[
-                  ((mode === 'float' && !isFocused) || headerTransparent) ? styles.header : null,
-                  shouldHideHeader ? { opacity: 0, height: 0, overflow: 'hidden' } : null
-                ]}
+                style={
+                  // Avoid positioning the focused header absolutely
+                  // Otherwise accessibility tools don't seem to be able to find it
+                  (mode === 'float' && !isFocused) || headerTransparent
+                    ? styles.header
+                    : null
+                }
               >
                 {header !== undefined ? header(props) : <Header {...props} />}
               </View>
