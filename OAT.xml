@@ -167,6 +167,16 @@
                 <filteritem type="filepath" name="packages/stack/src/types.tsx" desc="示例工程资源文件，不添加许可证头"/>
                 <filteritem type="filepath" name="packages/stack/src/utils/getDistanceForDirection.tsx" desc="示例工程资源文件，不添加许可证头"/>
                 <filteritem type="filepath" name="packages/stack/src/views/Header/HeaderSegment.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/index.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/types.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/BottomTabBar.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/CrossFadeIcon.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/MaterialTopTabBar.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/ResourceSavingScene.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/utils/createTabNavigator.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/utils/withDimensions.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/navigators/createBottomTabNavigator.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/navigators/createMaterialTopTabNavigator.tsx" desc="示例工程资源文件，不添加许可证头"/>
             </filefilter>
             <filefilter name="binaryFileTypePolicyFilter" desc="Filters for copyright header policies">
                 <filteritem type="filepath" name="packages/elements/src/assets/.*" desc="样式图片，不添加许可证头"/>
@@ -294,6 +304,16 @@
                 <filteritem type="filepath" name="packages/stack/src/types.tsx" desc="示例工程资源文件，不添加许可证头"/>
                 <filteritem type="filepath" name="packages/stack/src/utils/getDistanceForDirection.tsx" desc="示例工程资源文件，不添加许可证头"/>
                 <filteritem type="filepath" name="packages/stack/src/views/Header/HeaderSegment.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/index.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/types.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/BottomTabBar.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/CrossFadeIcon.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/MaterialTopTabBar.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/views/ResourceSavingScene.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/utils/createTabNavigator.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/utils/withDimensions.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/navigators/createBottomTabNavigator.tsx" desc="示例工程资源文件，不添加许可证头"/>
+                <filteritem type="filepath" name="packages/react-navigation-tabs/src/navigators/createMaterialTopTabNavigator.tsx" desc="示例工程资源文件，不添加许可证头"/>
             </filefilter>
         </filefilterlist>
     </oatconfig>
