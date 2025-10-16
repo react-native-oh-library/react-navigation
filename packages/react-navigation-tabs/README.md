@@ -1,6 +1,6 @@
 # @react-native-oh-tpl/react-navigation-tabs
 
-This project is based on [react-native-oh-library/react-navigation-tabs](https://github.com/react-navigation/react-navigation/tree/main/packages/react-navigation-tabs)
+This project is based on [react-navigation-tabs](https://github.com/react-navigation/tabs/tree/v2.7.0)
 
 ## Documentation
 
