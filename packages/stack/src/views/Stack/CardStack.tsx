@@ -489,7 +489,9 @@ export default class CardStack extends React.Component<Props, State> {
       onGestureCancel,
       detachInactiveScreens = Platform.OS === 'web' ||
         Platform.OS === 'android' ||
-        Platform.OS === 'ios',
+        Platform.OS === 'ios' ||
+        // @ts-ignore RNOH patch
+        Platform.OS === "harmony",
     } = this.props;
 
     const { scenes, layout, gestures, headerHeights } = this.state;
