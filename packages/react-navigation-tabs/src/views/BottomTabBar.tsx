@@ -10,7 +10,6 @@ import {
 } from 'react-native';
 import SafeAreaView from 'react-native-safe-area-view';
 import { ThemeColors, ThemeContext, NavigationRoute } from 'react-navigation';
-
 import CrossFadeIcon from './CrossFadeIcon';
 import withDimensions from '../utils/withDimensions';
 import {
@@ -29,8 +28,11 @@ type State = {
 const majorVersion = parseInt(Platform.Version as string, 10);
 const isIos = Platform.OS === 'ios';
 const isIOS11 = majorVersion >= 11 && isIos;
-
-const DEFAULT_MAX_TAB_ITEM_WIDTH = 125;
+// @ts-ignore RNOH patch
+const isHarmony = Platform.OS === 'harmony';
+// @ts-ignore RNOH patch
+const isTablet =  Platform.constants.deviceType === 'tablet';
+const DEFAULT_MAX_TAB_ITEM_WIDTH = isHarmony ? 185 : 125;
 const DEFAULT_KEYBOARD_ANIMATION_CONFIG: KeyboardHidesTabBarAnimationConfig = {
   show: {
     animation: 'timing',
@@ -99,7 +101,7 @@ class TabBarBottom extends React.Component<BottomTabBarProps, State> {
     showLabel: true,
     showIcon: true,
     allowFontScaling: true,
-    adaptive: isIOS11,
+    adaptive: isIOS11 || isHarmony,
     safeAreaInset: { bottom: 'always', top: 'never' } as React.ComponentProps<
       typeof SafeAreaView
     >['forceInset'],
@@ -355,7 +357,7 @@ class TabBarBottom extends React.Component<BottomTabBarProps, State> {
     }
 
     // @ts-ignore
-    if (Platform.isPad) {
+    if (Platform.isPad || isTablet) {
       let maxTabItemWidth = DEFAULT_MAX_TAB_ITEM_WIDTH;
 
       const flattenedStyle = StyleSheet.flatten(tabStyle);
@@ -426,7 +428,7 @@ class TabBarBottom extends React.Component<BottomTabBarProps, State> {
       styles.tabBar,
       isDark ? styles.tabBarDark : styles.tabBarLight,
       // @ts-ignore
-      this._shouldUseHorizontalLabels() && !Platform.isPad
+      this._shouldUseHorizontalLabels() && !(Platform.isPad || isTablet)
         ? styles.tabBarCompact
         : styles.tabBarRegular,
       innerStyle,
@@ -548,10 +550,12 @@ const styles = StyleSheet.create({
   tabPortrait: {
     justifyContent: 'flex-end',
     flexDirection: 'column',
+    alignItems: 'center',
   },
   tabLandscape: {
     justifyContent: 'center',
     flexDirection: 'row',
+    alignItems: 'center',
   },
   iconWithoutLabel: {
     flex: 1,
@@ -561,7 +565,7 @@ const styles = StyleSheet.create({
   },
   iconWithExplicitHeight: {
     // @ts-ignore
-    height: Platform.isPad ? DEFAULT_HEIGHT : COMPACT_HEIGHT,
+    height: Platform.isPad || isTablet? DEFAULT_HEIGHT : COMPACT_HEIGHT,
   },
   label: {
     textAlign: 'center',
