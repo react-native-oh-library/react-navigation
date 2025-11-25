@@ -1,6 +1,6 @@
 {
   "name": "@react-native-oh-tpl/react-navigation-tabs",
-  "version": "2.7.0-0.1.0-rc.1",
+  "version": "2.7.0-0.1.0-rc.2",
   "description": "Tab Navigation components for React Navigation",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
