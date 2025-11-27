@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { Animated, View, ViewProps } from 'react-native';
+import { Route } from '@react-navigation/native';
 
 let Screens: typeof import('react-native-screens') | undefined;
 
@@ -32,6 +33,12 @@ export const MaybeScreen = ({
   active: 0 | 1 | Animated.AnimatedInterpolation<0 | 1>;
   children: React.ReactNode;
   freezeOnBlur?: boolean;
+  onDismissed: (props: { route: Route<string> }) => void;
+  onAppear: (props: { route: Route<string> }) => void;
+  onWillDisappear: (props: { route: Route<string> }) => void;
+  onDisappear: (props: { route: Route<string> }) => void;
+  onWillAppear: (props: { route: Route<string> }) => void;
+  onNativeDismissCancelled: (props: { route: Route<string> }) => void;
 }) => {
   if (Screens != null) {
     return (

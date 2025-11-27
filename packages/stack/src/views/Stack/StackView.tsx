@@ -414,6 +414,38 @@ export default class StackView extends React.Component<Props, State> {
     });
   };
 
+   private handleOnWillAppear = ({ route }: { route: Route<string> }) => {
+    this.props.navigation.emit({
+      type: 'transitionStart',
+      data: { closing: false },
+      target: route.key,
+    });
+  };
+
+  private handleAppear = ({ route }: { route: Route<string> }) => {
+    this.props.navigation.emit({
+      type: 'transitionEnd',
+      data: { closing: false },
+      target: route.key,
+    });
+  };
+
+   private handleWillDisappear = ({ route }: { route: Route<string> }) => {
+      this.props.navigation.emit({              
+        type: 'transitionStart',
+        data: { closing: true },
+        target: route.key,
+      });
+  };
+
+  private handleDisappear = ({ route }: { route: Route<string> }) => {
+    this.props.navigation.emit({ 
+      type: 'transitionEnd',
+      data: { closing: true },
+      target: route.key,
+    });
+  };
+
   render() {
     const {
       state,
@@ -453,6 +485,10 @@ export default class StackView extends React.Component<Props, State> {
                         onGestureStart={this.handleGestureStart}
                         onGestureEnd={this.handleGestureEnd}
                         onGestureCancel={this.handleGestureCancel}
+                        onWillAppear={this.handleOnWillAppear}
+                        onAppear={this.handleAppear}
+                        onWillDisappear={this.handleWillDisappear}
+                        onDisappear={this.handleDisappear}
                         {...rest}
                       />
                     )}
