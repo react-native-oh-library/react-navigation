@@ -71,6 +71,10 @@ type Props = {
   onGestureEnd: (props: { route: Route<string> }) => void;
   onGestureCancel: (props: { route: Route<string> }) => void;
   detachInactiveScreens?: boolean;
+  onWillAppear: (props: { route: Route<string> }) => void;
+  onAppear: (props: { route: Route<string> }) => void;
+  onWillDisappear: (props: { route: Route<string> }) => void;
+  onDisappear: (props: { route: Route<string> }) => void;
 };
 
 type State = {
@@ -487,6 +491,10 @@ export default class CardStack extends React.Component<Props, State> {
       onGestureStart,
       onGestureEnd,
       onGestureCancel,
+      onWillDisappear,
+      onAppear,
+      onDisappear,
+      onWillAppear,
       detachInactiveScreens = Platform.OS === 'web' ||
         Platform.OS === 'android' ||
         Platform.OS === 'ios' ||
@@ -671,6 +679,12 @@ export default class CardStack extends React.Component<Props, State> {
                 active={isScreenActive}
                 freezeOnBlur={freezeOnBlur}
                 pointerEvents="box-none"
+                onDismissed={() => onCloseRoute({ route })}
+                onAppear={() => onAppear({ route })}
+                onWillDisappear={() => onWillDisappear({ route })}
+                onDisappear={() => onDisappear({ route })}
+                onWillAppear={() => onWillAppear({ route })}
+                onNativeDismissCancelled={() => onCloseRoute({ route })}
               >
                 <CardContainer
                   index={index}
